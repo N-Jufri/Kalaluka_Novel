@@ -1,0 +1,27 @@
+.menu img{
+    max-width: 150px;
+    max-height: 150px;
+    
+}
+
+#nav-bar {
+    list-style: none;
+    float: right;
+    background-color: white;
+}
+
+body {
+    background-color: grey;
+
+}
+
+.wrap {
+
+    
+}
+
+
+.wrap .video2 {
+  width: 80px;  
+  height: 80px; 
+}
